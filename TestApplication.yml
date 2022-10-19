@@ -12,4 +12,4 @@ management:
         include: '*'
 
 hello:
-  rel: dj
+  rel: 2.3.9.RELEASE
