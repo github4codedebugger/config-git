@@ -1,0 +1,1 @@
+Spring.version=2.3.9RELEASE
