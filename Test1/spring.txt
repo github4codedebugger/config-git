@@ -1,1 +1,1 @@
-spring-version = 2.3.7RELEASE
+spring-version = 2.5.7RELEASE
